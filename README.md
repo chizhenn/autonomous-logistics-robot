@@ -35,7 +35,7 @@ Scripts:
 - `plot_map.py` — plot map with labeled locations
 - `extract_landmarks.py` — RANSAC landmark extraction (feature analysis)
 
-### Module 2 — Human Detection & Fuzzy Speed Control (`yolo_fuzzy_speed/`)
+### Module 2 — Human Detection & Fuzzy Speed Control (`yolo_fuzzy_speed`)
 Detects people via **YOLO11** and uses **fuzzy logic** to adjust speed by distance — slowing when near, speeding up when far.
 
 ## Tech Stack
