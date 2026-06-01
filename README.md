@@ -1,8 +1,24 @@
 # Autonomous Indoor Logistics Robot for Laboratory Materials Delivery
 
-Academic Project I — Faculty of Computer Science & IT, University of Malaya.
+Academic Project I - Faculty of Computer Science & IT, University of Malaya.
 An autonomous indoor robot for delivering laboratory materials in the Parasitology Department, using SLAM navigation and human-aware variable speed control.
 
+autonomous-logistics-robot/
+├── README.md
+├── catkin_ws/            
+│   ├── build/
+│   ├── devel/
+│   └── src/
+│       ├── slam_navigation/
+│       │   ├── maps/
+│       │   ├── scripts/
+│       │   ├── CMakeLists.txt
+│       │   └── package.xml
+│       ├── turtlebot3/
+│       ├── turtlebot3_msgs/
+│       └── turtlebot3_simulations/
+└── yolo_fuzzy_speed.py
+    
 ## Modules
 
 ### Module 1 — SLAM Navigation (`slam_navigation/`)
