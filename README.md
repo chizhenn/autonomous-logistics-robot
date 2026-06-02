@@ -1,6 +1,7 @@
 # Autonomous Indoor Logistics Robot for Laboratory Materials Delivery
 
 Academic Project I - Faculty of Computer Science & IT, University of Malaya.
+
 An autonomous indoor robot for delivering laboratory materials in the Parasitology Department, using SLAM navigation and human-aware variable speed control.
 
 ## Modules
